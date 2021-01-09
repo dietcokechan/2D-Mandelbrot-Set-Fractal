@@ -1,7 +1,7 @@
 # 2D-Mandelbrot-Set-Fractal
 A simple 2D Mandelbrot Set fractal that I coded (almost) from scratch using SDL2    
   
-It can zoom into the fractal and it takes a screenshot on every zoom    
+It zooms into the fractal and takes a screenshot on every zoom    
   
 You can collect the screenshots and make a video of the zooms using ffmpeg in cmd    
   
